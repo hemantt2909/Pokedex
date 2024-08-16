@@ -1,0 +1,19 @@
+{
+  "name": "pokemate",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "With Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemantt2909/Pokedex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemantt2909/Pokedex/issues"
+  },
+  "homepage": "https://github.com/hemantt2909/Pokedex#readme",
+  "description": ""
+}
